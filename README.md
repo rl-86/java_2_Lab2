@@ -1,3 +1,3 @@
-java_1_Lab3
+java_2_Lab2
 ===================
-Testing with Junit5 + java streams
+Implementation of rest API with JSX-RS.
